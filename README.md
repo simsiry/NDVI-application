@@ -1,7 +1,7 @@
 ### NDVI-application
 NDVI application using python 3.7 with libraries
 
-<b>The purpose of this repo is to make the ndvi using the python libraries with sample images.<b>
+The purpose of this repo is to make the ndvi using the python libraries with sample images.
 
 *Requirements with version*
 Python 3.7.1 (or higer versions)
