@@ -1,4 +1,4 @@
-### NDVI-application
+<h1> NDVI-application </h1>
 NDVI application using python 3.7 with libraries
 
 The purpose of this repo is to make the ndvi using the python libraries with sample images.
