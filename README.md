@@ -5,9 +5,9 @@ The purpose of this repo is to make the ndvi using the python libraries with sam
 
 <h2>Requirements with version</h2>
 Python 3.7.1 (or higer versions)
-Numpy library
-matplotlib.pyplot library
-rasterio library
+Numpy library;
+matplotlib.pyplot library;
+rasterio library;
 skimage library
 
 <h2> DATASET </h2>
