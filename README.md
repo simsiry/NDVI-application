@@ -11,6 +11,6 @@ rasterio library;</br>
 skimage library</br>
 
 <h2> DATASET </h2>
-#dataset is landsat 8 images at path/row=180/31 
+#dataset is landsat 8 images at path/row=180/31 </br>
 Please check the "input" folder for dataset
 
